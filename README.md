@@ -10,7 +10,6 @@ Supplementary materials for the paper:
 
 - `search-strings/` - Complete search strings for each database
 - `quality-assessment/` - Grey literature quality evaluation (Yasin et al. checklist)
-- `extraction-data/` - Data extraction tables and coding
 
 ## Citation
 
